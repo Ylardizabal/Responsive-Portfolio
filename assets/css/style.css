@@ -312,6 +312,7 @@ input[type=submit] {
 	#masthead
 	{
 		width: 640px;
+		height: 100px;
 	}
 
 	nav a
@@ -349,6 +350,12 @@ input[type=submit] {
 	.work h3
 	{
 			font-size: 11px;
+	}
+
+	footer
+	{
+			height: 50px;
+			padding: 10px 0;
 	}
 	
 }
